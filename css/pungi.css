@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Indie Flower', cursive;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -25,8 +25,8 @@ header h1{
 }
 
 header img{
-	border-radius: 150px;
-	border: 5px solid darkslateblue;
+	border-radius: 170px;
+	border: 10px solid darkslateblue;
 }
 
 
@@ -38,6 +38,7 @@ main{
 
 main img{
 	max-width: 100%;
+	border: 5px solid darkslateblue;
 }
 
 h2{
@@ -49,9 +50,7 @@ h2{
 a{
 	color: darkslateblue;
 }
-a:hover{
-	color: #54d6b7;
-}
+
 
 footer{
 	background-color: #54d6b7;
